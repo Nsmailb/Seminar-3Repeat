@@ -47,3 +47,5 @@ b. **_git log_** --all --oneline --graph - графически визуализ
 # **Удаленные репозитории**
 
 Удаленные репозитории нужны для... 
+
+fuiwefhfhwofhweiofhweiofhweofhweofwehfowfhowefhiwe
