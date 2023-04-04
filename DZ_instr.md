@@ -55,4 +55,6 @@ b. **_git log_** --all --oneline --graph - графически визуализ
 3. В терминале на своем ПК выполняем следующие команды:
 * git remote add origin https://github.com/Nsmailb/"имя папки репозитория на GH"
 * git branch -M main (переименовываем главную ветку в main)
-* git push -u origin main
+* git push -u origin main (отправляем удаленному репозиторию локальный репозиторий).
+
+**_git remote remove origin_** - удаляет некорректноподключенные удаленные репозитории.
