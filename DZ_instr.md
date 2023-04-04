@@ -46,6 +46,13 @@ b. **_git log_** --all --oneline --graph - графически визуализ
 
 # **Удаленные репозитории**
 
-Удаленные репозитории нужны для... 
+Создание удаленного репозитория на Git Hub.
 
-fuiwefhfhwofhweiofhweiofhweofhweofwehfowfhowefhiwe
+1. Создать удаленный репозиторй на Git Hub (GH), после авторизации на GH, на главной странице своего профиля.
+
+2. Задаем имя репозитория;
+
+3. В терминале на своем ПК выполняем следующие команды:
+* git remote add origin https://github.com/Nsmailb/"имя папки репозитория на GH"
+* git branch -M main (переименовываем главную ветку в main)
+* git push -u origin main
